@@ -1,1 +1,11 @@
+title: All About Me
+author: Srinidhi Ayalasomayajula
+email: sayalasomayajula@ebnet.org
+description: > # this means to ignore newlines 
+The goal of this website to learn more about me
+
+# social links 
+facebook_username: Srinidhi Ayala
+
+
 theme: jekyll-theme-merlot
